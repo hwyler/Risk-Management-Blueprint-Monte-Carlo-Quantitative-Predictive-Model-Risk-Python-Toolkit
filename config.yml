@@ -1,0 +1,18 @@
+title: Quantitative GRC Blueprint
+description: Replace heat maps with Monte Carlo simulation, AI risk controls, and decision-grade quantitative risk management. Based on The Risk Management Blueprint by Hernan Huwyler.
+url: https://yourusername.github.io
+baseurl: /quantitative-grc-blueprint
+author: Hernan Huwyler
+lang: en-US
+timezone: America/New_York
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
