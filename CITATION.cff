@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this simulation engine or reference this framework, please cite the book below."
+authors:
+  - family-names: Huwyler
+    given-names: Hernan
+    orcid: ""
+title: "The Risk Management Blueprint: A Practitioner's Guide to Quantitative GRC"
+version: 1.0.0
+date-released: 2024-01-01
+url: "https://www.amazon.com/dp/B0HH44D65L"
+type: book
+keywords:
+  - quantitative risk management
+  - Monte Carlo simulation
+  - AI governance
+  - ISO 42001
+  - GRC
+  - cyber risk quantification
+  - agentic risk controls
+  - model risk management
